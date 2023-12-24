@@ -44,7 +44,7 @@ This landing page is specifically tailored for anime watchers in India, providin
 ## Author
 
 - **Joshua Rozer Dasan**
-  - [GitHub Profile](https://github.com/your-username)
+  - [GitHub Profile](https://github.com/JoshuaRozer)
   - [LinkedIn Profile](https://www.linkedin.com/in/joshuarozer/)
 
 ## Contribution
